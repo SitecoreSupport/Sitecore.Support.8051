@@ -48,6 +48,10 @@
       <HintPath>..\packages\SC.Sitecore.Mvc.8.2.3\lib\Sitecore.Mvc.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Sitecore.XA.Feature.Composites, Version=2.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Sitecore.XA.Feature.Composites.dll</HintPath>
+    </Reference>
     <Reference Include="Sitecore.XA.Feature.CreativeExchange">
       <HintPath>..\..\lib\Sitecore.XA.Feature.CreativeExchange.dll</HintPath>
     </Reference>
